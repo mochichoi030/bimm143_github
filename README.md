@@ -1,4 +1,4 @@
 # bimm143_github
 My classwork for F23 in BIMM143 at UC San Diego
 
-- Class 05: (Intro to GGPLOT) | https://github.com/mochichoi030/bimm143_github/tree/main/class05
+- Class 05: [Intro to GGPLOT](https://github.com/mochichoi030/bimm143_github/tree/main/class05)
